@@ -39,3 +39,36 @@
 2019-11-12 17:04:57.783 DEBUG ROG-G752VY --- [           main] c.f.a.s.t.SocieteSeviceTest              : Coucou
 2019-11-12 17:04:57.794  WARN ROG-G752VY --- [           main] c.f.a.ProjetSpringBootApplication        : coucou
 2019-11-12 17:04:57.795 DEBUG ROG-G752VY --- [           main] c.f.a.ProjetSpringBootApplication        : coucou
+2019-11-13 15:56:58.434  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : Starting ProjetSpringBootApplicationTests on IN-LY-005 with PID 6932 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 15:56:58.434 DEBUG IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 15:56:58.434  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : No active profile set, falling back to default profiles: default
+2019-11-13 15:57:07.243  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : Started ProjetSpringBootApplicationTests in 9.27 seconds (JVM running for 15.531)
+2019-11-13 16:29:27.154  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplication        : Starting ProjetSpringBootApplication on IN-LY-005 with PID 1476 (C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable\target\classes started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 16:29:27.154 DEBUG IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplication        : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 16:29:27.154  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplication        : No active profile set, falling back to default profiles: default
+2019-11-13 16:29:31.585  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplication        : Started ProjetSpringBootApplication in 4.738 seconds (JVM running for 6.145)
+2019-11-13 16:29:31.587  WARN IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplication        : coucou
+2019-11-13 16:29:31.587 DEBUG IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplication        : coucou
+2019-11-13 16:29:43.464  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : Starting ProjetSpringBootApplicationTests on IN-LY-005 with PID 6756 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 16:29:43.472 DEBUG IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 16:29:43.474  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : No active profile set, falling back to default profiles: default
+2019-11-13 16:29:56.203  INFO IN-LY-005 --- [           main] c.f.a.ProjetSpringBootApplicationTests   : Started ProjetSpringBootApplicationTests in 13.169 seconds (JVM running for 15.941)
+2019-11-13 16:43:48.672  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Starting UserServiceTest on IN-LY-005 with PID 10972 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 16:43:48.680 DEBUG IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 16:43:48.681  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : No active profile set, falling back to default profiles: default
+2019-11-13 16:43:56.608  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Started UserServiceTest in 8.373 seconds (JVM running for 11.122)
+2019-11-13 16:44:28.694  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Starting UserServiceTest on IN-LY-005 with PID 1324 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 16:44:28.704 DEBUG IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 16:44:28.706  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : No active profile set, falling back to default profiles: default
+2019-11-13 16:44:46.847  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Starting UserServiceTest on IN-LY-005 with PID 9448 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 16:44:46.862 DEBUG IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 16:44:46.862  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : No active profile set, falling back to default profiles: default
+2019-11-13 16:44:54.532  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Started UserServiceTest in 8.096 seconds (JVM running for 10.717)
+2019-11-13 17:05:35.021  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Starting UserServiceTest on IN-LY-005 with PID 5580 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 17:05:35.029 DEBUG IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 17:05:35.031  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : No active profile set, falling back to default profiles: default
+2019-11-13 17:05:42.405  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Started UserServiceTest in 7.826 seconds (JVM running for 10.443)
+2019-11-13 17:17:30.623  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Starting UserServiceTest on IN-LY-005 with PID 6660 (started by IN-LY-005 in C:\Users\IN-LY-005\WorkSpace_JSP\ProjetSpringBootModifiable)
+2019-11-13 17:17:30.623 DEBUG IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-13 17:17:30.623  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : No active profile set, falling back to default profiles: default
+2019-11-13 17:17:38.171  INFO IN-LY-005 --- [           main] c.f.a.s.UserServiceTest                  : Started UserServiceTest in 7.999 seconds (JVM running for 10.701)
